@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "182946953469",
+    "project_id": "cmd368---th-gii-th-thao---vip2",
+    "storage_bucket": "cmd368---th-gii-th-thao---vip2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182946953469:android:703b11f16c3d13f22aa694",
+        "android_client_info": {
+          "package_name": "io.giodude.cmd368"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182946953469-dc5fp6pijnjkbm8cmh6al5mhvras6vdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDNXTeFQuTZm3xBwsUi1VvIUzn0lPUW_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182946953469-dc5fp6pijnjkbm8cmh6al5mhvras6vdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
